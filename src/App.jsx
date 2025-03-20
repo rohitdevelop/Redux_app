@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './app.css'
+import './App.css'
 import { useDispatch, useSelector } from 'react-redux'
 import { decrement, increment, incrementByAmount, reset } from './Fetures/counter/counterSlice'
 
